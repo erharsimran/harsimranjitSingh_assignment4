@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{7AC7AF33-C6C3-46B9-9A36-12E3F2D755ED}|Default">
+  <MonoDevelop.Ide.ItemProperties.harsimranjitSingh__assignment4 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="harsimranjitSingh_assignment4/Usings.cs">
+    <Files>
+      <File FileName="harsimranjitSingh_assignment4/Usings.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="harsimranjitSingh_assignment4" expanded="True" selected="True">
+            <Node name="harsimranjitSingh_assignment4" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="harsimranjitSingh_assignment4" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
